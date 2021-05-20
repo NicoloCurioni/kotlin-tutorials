@@ -42,7 +42,7 @@ I follow the Learn by doing way to learn the Kotlin programming language.
    
 I hope you enjoy and learn by this git.
 
-NOTE: I don't work with Ray Wenderlich team but I lear by this amazing platform.
+NOTE: I don't work with Ray Wenderlich team but I learn by this amazing platform.
 
 
 
